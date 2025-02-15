@@ -38,8 +38,9 @@ The project aims to analyze the Massachusetts Road Crash Dataset to identify pat
    - Filters allow users to analyze data by severity, location, road/weather conditions, and lighting.
    - "Current Year" vs. "Previous Year" comparison for trend analysis.
    - 📊 **Explore the interactive dashboard on Tableau**: [View Dashboard](https://public.tableau.com/app/profile/vikramadithya.pabba/viz/RoadSafety_17118164935630/RoadSafety)
-    <img src="Snapshots/ss1.png" width="100%">
-    <img src="Snapshots/ss2.png" width="100%">
+
+    <img src="Snapshots/ss1.png" width="75%">
+    <img src="Snapshots/ss2.png" width="75%">
 
 ## Key Findings
 - **COVID-19 Impact**: Accidents significantly decreased in 2020 due to lockdown restrictions.
